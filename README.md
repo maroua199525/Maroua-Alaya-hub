@@ -9,7 +9,7 @@
 
 
 - 🔭 After graduation, I decided to dive into the TECH world.
-- 🤔  have been studying low-level programming, high-level programming, system engineering, devops and blockchain, using a methodology based on peer-learning and projects.
+- 🤔 I have been studying low-level programming, high-level programming, system engineering, devops and blockchain, using a methodology based on peer-learning and projects.
 - ⚡Ask me about any technichal problem.
 - 😄 I'm curious, adaptable, a fast learner and I love developing my skills.
 - ⚡ I’m looking to collaborate on any project.
