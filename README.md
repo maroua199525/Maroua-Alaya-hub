@@ -4,7 +4,7 @@
 
 #### Reach me out!
 
-[![Medium Badge](https://img.shields.io/badge/Maroua_Alaya-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://onsjannet.medium.com/)[![Linkedin Badge](https://img.shields.io/badge/-Maroua-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ons-ben-jannet-227197176/) [![Mail Badge](https://img.shields.io/badge/-Maroua-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:isonsjannet@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/Maroua_Alaya-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://marouaalaya.medium.com/)[![Linkedin Badge](https://img.shields.io/badge/-Maroua-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maroua-alaya/) [![Mail Badge](https://img.shields.io/badge/-Maroua-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ismarouaalaya1995@gmail.com)
 
 
 
